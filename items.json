@@ -1,0 +1,114 @@
+{
+ "items": [
+  {
+   "id": "317692",
+   "stock": 0,
+   "nombre": "Zotac GAMING GeForce RTX 3080 Trinity 10GB GDDR6X"
+  },
+  {
+   "id": "317844",
+   "stock": 0,
+   "nombre": "MSI GeForce RTX 3080 VENTUS 3X OC 10GB GDDR6X"
+  },
+  {
+   "id": "319020",
+   "stock": 0,
+   "nombre": "EVGA GeForce RTX 3080 XC3 BLACK GAMING 10GB GDDR6X"
+  },
+  {
+   "id": "321965",
+   "stock": 0,
+   "nombre": "Zotac GAMING GeForce RTX 3080 Trinity OC 10GB GDDR6X"
+  },
+  {
+   "id": "317644",
+   "stock": 0,
+   "nombre": "Asus TUF GeForce RTX 3080 10GB GDDR6X"
+  },
+  {
+   "id": "335283",
+   "stock": 0,
+   "nombre": "Gigabyte GeForce RTX 3080 EAGLE 10GB GDDR6X"
+  },
+  {
+   "id": "319022",
+   "stock": 0,
+   "nombre": "EVGA GeForce RTX 3080 XC3 GAMING 10GB GDDR6X"
+  },
+  {
+   "id": "317751",
+   "stock": 0,
+   "nombre": "PNY GeForce RTX 3080 XLR8 Gaming REVEL EPIC-X RGB Triple Fan Edition 10GB GDDR6X"
+  },
+  {
+   "id": "317842",
+   "stock": 0,
+   "nombre": "MSI GeForce RTX 3080 GAMING X TRIO 10GB GDDR6X"
+  },
+  {
+   "id": "317748",
+   "stock": 0,
+   "nombre": "PNY GeForce RTX 3080 XLR8 Gaming UPRISING EPIC-X RGB Triple Fan Edition 10GB GDDR6X"
+  },
+  {
+   "id": "317642",
+   "stock": 0,
+   "nombre": "Asus TUF GeForce RTX 3080 OC 10GB GDDR6X"
+  },
+  {
+   "id": "335135",
+   "stock": 0,
+   "nombre": "Zotac Gaming GeForce RTX 3080 AMP Holo 10GB GDDRX6"
+  },
+  {
+   "id": "320405",
+   "stock": 0,
+   "nombre": "EVGA GeForce RTX 3080 XC3 ULTRA GAMING 10GB GDDR6X"
+  },
+  {
+   "id": "317649",
+   "stock": 0,
+   "nombre": "Asus ROG Strix GeForce RTX 3080 Gaming 10GB GDDR6X"
+  },
+  {
+   "id": "319026",
+   "stock": 0,
+   "nombre": "EVGA GeForce RTX 3080 FTW3 GAMING 10GB GDDR6X"
+  },
+  {
+   "id": "317597",
+   "stock": 0,
+   "nombre": "Gigabyte GeForce RTX 3080 Eagle OC 10G 10GB GDDR6X"
+  },
+  {
+   "id": "333012",
+   "stock": 0,
+   "nombre": "MSI GeForce RTX 3080 SUPRIM X 10GB GDDR6X"
+  },
+  {
+   "id": "319027",
+   "stock": 0,
+   "nombre": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB GDDR6X"
+  },
+  {
+   "id": "317595",
+   "stock": 0,
+   "nombre": "Gigabyte GeForce RTX 3080 Gaming OC 10G 10GB GDDR6X"
+  },
+  {
+   "id": "328702",
+   "stock": 0,
+   "nombre": "AMD Ryzen 9 5900X 3.7 GHz"
+  },
+  {
+   "id": "328473",
+   "stock": 1,
+   "nombre": "AMD Ryzen 7 5800X 3.8GHz"
+  },
+  {
+   "id": "328475",
+   "stock": 1,
+   "nombre": "AMD Ryzen 5 5600X 3.7GHz"
+  }
+ ]
+}
